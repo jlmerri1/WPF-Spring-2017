@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<breakfast_menu>
+  <food name="Belgian Waffles" price="$5.95" description="Belgian waffles with plenty of real maple syrup" calories="650"/>
+  <food name="Strawberry Waffles" price="$6.95" description="Light Belgian waffles covered with strawberries and whipped cream" calories="950"/>
+  <food name="Homestyle Breakfast" price="$7.95" description="Eggs, bacon, sausage, and hashbrowns extra crispy" calories="1050"/>
+
+</breakfast_menu>

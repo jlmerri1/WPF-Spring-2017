@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating an XML document for student data-->
+<Students>
+  <Student Id="101">
+    <Name>Mark</Name>
+    <Gender>Male</Gender>
+    <Grade>85</Grade>
+  </Student>
+  <Student Id="102">
+    <Name>Jane</Name>
+    <Gender>Female</Gender>
+    <Grade>90</Grade>
+  </Student>
+  <Student Id="103">
+    <Name>John</Name>
+    <Gender>Male</Gender>
+    <Grade>70</Grade>
+  </Student>
+  <Student Id="104">
+    <Name>Pam</Name>
+    <Gender>Female</Gender>
+    <Grade>75</Grade>
+  </Student>
+</Students>

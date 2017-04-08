@@ -1,0 +1,14 @@
+C:\Users\admin\Source\Repos\event\XML\XML\bin\Debug\XML.exe.config
+C:\Users\admin\Source\Repos\event\XML\XML\bin\Debug\XML.exe
+C:\Users\admin\Source\Repos\event\XML\XML\bin\Debug\XML.pdb
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\App.g.cs
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML_MarkupCompile.cache
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML_MarkupCompile.lref
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\MainWindow.baml
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML.g.resources
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML.exe
+C:\Users\admin\Source\Repos\event\XML\XML\obj\Debug\XML.pdb
