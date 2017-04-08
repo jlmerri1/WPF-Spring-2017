@@ -1,0 +1,13 @@
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\bin\Debug\DataGridExample2.exe.config
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\bin\Debug\DataGridExample2.exe
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\bin\Debug\DataGridExample2.pdb
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\App.g.cs
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\DataGridExample2_MarkupCompile.cache
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\DataGridExample2_MarkupCompile.lref
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\MainWindow.baml
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\DataGridExample2.g.resources
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\DataGridExample2.Properties.Resources.resources
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\DataGridExample2.csproj.GenerateResource.Cache
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\DataGridExample2.exe
+C:\Users\admin\Source\Repos\event\DataGridExample2\DataGridExample2\obj\Debug\DataGridExample2.pdb
