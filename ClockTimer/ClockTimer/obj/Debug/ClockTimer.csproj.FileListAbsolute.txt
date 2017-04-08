@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ClockTimer\ClockTimer\bin\Debug\ClockTimer.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ClockTimer\ClockTimer\bin\Debug\ClockTimer.exe
+c:\users\admin\documents\visual studio 2015\Projects\ClockTimer\ClockTimer\bin\Debug\ClockTimer.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ClockTimer\ClockTimer\obj\Debug\ClockTimer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ClockTimer\ClockTimer\obj\Debug\ClockTimer.exe
+c:\users\admin\documents\visual studio 2015\Projects\ClockTimer\ClockTimer\obj\Debug\ClockTimer.pdb
