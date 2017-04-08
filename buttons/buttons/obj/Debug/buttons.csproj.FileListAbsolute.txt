@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\bin\Debug\buttons.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\bin\Debug\buttons.exe
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\bin\Debug\buttons.pdb
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons.exe
+c:\users\admin\documents\visual studio 2015\Projects\buttons\buttons\obj\Debug\buttons.pdb

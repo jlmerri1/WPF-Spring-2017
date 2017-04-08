@@ -1,0 +1,44 @@
+﻿<Window x:Class="buttons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:buttons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="525">
+    <Grid>
+        <StackPanel>
+            <Button x:Name="btn" Click="btn_Click">Button 1</Button>
+            <TextBlock x:Name="txt1"></TextBlock>
+        </StackPanel>
+        <StackPanel Margin="0,30,0,0">
+            <RepeatButton x:Name="rBtn" Click="rBtn_Click" Content="Repeat button" Margin="0,0,0.4,0"/>
+            <ProgressBar x:Name="pBar"
+                         Value="0"
+                         Minimum="0"
+                         Maximum="100" Height="30" />
+        </StackPanel>
+        <StackPanel Margin="0,110,0,0">
+            <ToggleButton x:Name="tggleBtn" Click="tggleBtn_Click">Toggle Button</ToggleButton>
+            <ProgressBar x:Name="pBar2" Width="60"
+                         Height="30"/> 
+        </StackPanel>
+        <StackPanel Margin="0,170,0,0">
+            <CheckBox x:Name="chckBox1" Click="tggleBtn_Click">Checkbox 1</CheckBox>
+            <CheckBox>Checkbox 2</CheckBox>
+        </StackPanel>
+        <StackPanel Margin="0,245,0,0">
+            <TextBlock>Group 1</TextBlock>
+            <RadioButton GroupName="grp1">Radio Button 1</RadioButton>
+            <RadioButton GroupName="grp1">Radio Button 2</RadioButton>
+            <RadioButton GroupName="grp1">Radio Button 3</RadioButton>
+        </StackPanel>
+        <StackPanel Margin="0,330,0,0">
+            <TextBlock>Group 2</TextBlock>
+            <RadioButton GroupName="grp1">Radio Button 1</RadioButton>
+            <RadioButton GroupName="grp1">Radio Button 2</RadioButton>
+            <RadioButton GroupName="grp1">Radio Button 3</RadioButton>
+        </StackPanel>
+        
+    </Grid>
+</Window>

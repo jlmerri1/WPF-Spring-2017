@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\bin\Debug\bindingWPF.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\bin\Debug\bindingWPF.exe
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\bin\Debug\bindingWPF.pdb
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF.exe
+c:\users\admin\documents\visual studio 2015\Projects\bindingWPF\bindingWPF\obj\Debug\bindingWPF.pdb
