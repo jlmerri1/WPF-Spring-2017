@@ -1,0 +1,14 @@
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\bin\Debug\Bookstore_Merrill.exe.config
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\bin\Debug\Bookstore_Merrill.exe
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\bin\Debug\Bookstore_Merrill.pdb
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\App.g.cs
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill_MarkupCompile.cache
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill_MarkupCompile.lref
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\MainWindow.baml
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill.g.resources
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill.Properties.Resources.resources
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill.csproj.GenerateResource.Cache
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill.exe
+C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\obj\Debug\Bookstore_Merrill.pdb

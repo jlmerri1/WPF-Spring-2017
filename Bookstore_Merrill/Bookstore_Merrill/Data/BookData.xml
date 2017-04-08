@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating an XML document for Book Store-->
+<Books>
+  <Book Name="f">
+    <Title>f</Title>
+    <Genre>Educational</Genre>
+    <Price>3</Price>
+  </Book>
+</Books>

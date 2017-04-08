@@ -1,0 +1,46 @@
+﻿<Window x:Class="Bookstore_Merrill.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bookstore_Merrill"
+        mc:Ignorable="d"
+        Title="Book Store" Height="350" Width="525">
+    <Grid>
+        <TabControl TabStripPlacement="Top">
+            <TabItem Header="Create Books">
+                <StackPanel>
+                    <TextBlock>Title</TextBlock>
+                    <TextBox x:Name="titleBox"></TextBox>
+                    <TextBlock>Genre</TextBlock>
+                    <ComboBox x:Name="genreBox">
+                        <ComboBoxItem IsSelected="True">Educational</ComboBoxItem>
+                        <ComboBoxItem>Romance</ComboBoxItem>
+                        <ComboBoxItem>Mystery</ComboBoxItem>
+                    </ComboBox>
+                    <TextBlock>Price:</TextBlock>
+                    <TextBox x:Name="priceBox"></TextBox>
+                    <Button x:Name="BtnAdd" Click="BtnAdd_Click">Add To List</Button>
+                    <ListView x:Name="listview">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Title" DisplayMemberBinding="{Binding Title}"/>
+                                <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding Genre}"/>
+                                <GridViewColumn Header="Price" DisplayMemberBinding="{Binding Price}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Button x:Name="btnSave" Click="btnSave_Click">Save List</Button>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Search Books">
+                <StackPanel>
+                    <TextBlock>Search by Price:</TextBlock>
+                    <TextBox x:Name="searchBox"></TextBox>
+                    <Button x:Name="btnSearch" Click="btnSearch_Click">Search</Button>
+                    <ListBox x:Name="listboxBox" Height="237" Margin="0,0,-0.2,0"></ListBox>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
