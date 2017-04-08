@@ -6,28 +6,8 @@ To use files: Please download the respective folder in order to open the program
 
 Example: The code below is an example of the c# code-behind in a project where a user can "create books" with a user determined title, pre-determined list of options for genre, and user determined price.  The user may then "save list" to a XML file for a future search.  The rest of the code for this project is located in the Bookstore_merrill folder.
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using System.Xml.Linq;
 
-namespace Bookstore_Merrill
-{
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
+   public partial class MainWindow : Window
     {
         List<Book> Books = new List<Book>();
         string path = @"C:\Users\admin\Source\Repos\event\Bookstore_Merrill\Bookstore_Merrill\Data\BookData.xml";
@@ -81,4 +61,4 @@ namespace Bookstore_Merrill
                 listboxBox.Items.Add(title);
         }
     }
-}
+
