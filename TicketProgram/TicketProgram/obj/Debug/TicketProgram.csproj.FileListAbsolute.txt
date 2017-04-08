@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\TicketProgram\TicketProgram\bin\Debug\TicketProgram.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\TicketProgram\TicketProgram\bin\Debug\TicketProgram.exe
+c:\users\admin\documents\visual studio 2015\Projects\TicketProgram\TicketProgram\bin\Debug\TicketProgram.pdb
+c:\users\admin\documents\visual studio 2015\Projects\TicketProgram\TicketProgram\obj\Debug\TicketProgram.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\TicketProgram\TicketProgram\obj\Debug\TicketProgram.exe
+c:\users\admin\documents\visual studio 2015\Projects\TicketProgram\TicketProgram\obj\Debug\TicketProgram.pdb

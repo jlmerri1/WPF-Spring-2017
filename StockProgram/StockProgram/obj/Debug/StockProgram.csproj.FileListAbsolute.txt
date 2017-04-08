@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\StockProgram\StockProgram\bin\Debug\StockProgram.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\StockProgram\StockProgram\bin\Debug\StockProgram.exe
+c:\users\admin\documents\visual studio 2015\Projects\StockProgram\StockProgram\bin\Debug\StockProgram.pdb
+c:\users\admin\documents\visual studio 2015\Projects\StockProgram\StockProgram\obj\Debug\StockProgram.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\StockProgram\StockProgram\obj\Debug\StockProgram.exe
+c:\users\admin\documents\visual studio 2015\Projects\StockProgram\StockProgram\obj\Debug\StockProgram.pdb
